@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Ananthashayanan Uthayakumar</h1>
+<p align="center">
+Network Engineering · Cybersecurity · Micro SaaS Creator
+</p>
 
-<!--
-**Shayanan-Uthayakumar/Shayanan-Uthayakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Who I Am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Network Engineering student focused on **infrastructure design**, **cybersecurity protocols**, and **real-world automation**.  
+I craft Micro SaaS tools that solve niche problems with speed, precision, and user-first utility.
+
+---
+
+### Projects I Build
+
+| Project Name | Niche | Description |
+|--------------|-------|--------|
+| **Secure Access Gateway** | Cybersecurity / Auth Systems | One-time login token generator for secure app access. |
+| **Disposable File Drop** | Privacy / File Sharing | Auto-deleting file share with zero tracking. |
+| **One-Time Chatroom** | Secure Comms / Anonymity | Self-destructing private chatroom for sensitive talks. |
+| **Single-Use API Key Vault** | Dev Tools / API Security | Single-use API key manager to stop backend abuse. |
+
+> I release 2–4 Micro SaaS tools every month.
+
+---
+
+### Tools & Tech I Use
+
+- **Languages**: Python · Node.js · JavaScript · Bash
+- **Infra**: GitHub Actions · Vercel · Railway · Supabase · Firebase
+- **Security**: JWT · One-Time Tokens · HTTPS · CORS Hardening
+- **Utilities**: Webhooks · CRON Jobs · WebSocket Tunnels
+- **Tools**: Postman · Insomnia · Wireshark · Nmap
+- **Concepts**: End-to-End Encryption · Self-Destruct Logic · Zero Trust Access
+
+---
+
+### Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/ananthashayanan-uthayakumar-95656134a)
