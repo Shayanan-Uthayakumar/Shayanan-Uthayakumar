@@ -5,7 +5,7 @@ Network Engineering · Cybersecurity · Micro SaaS Creator
 
 ---
 
-### Who I Am
+### Who I Am:
 
 I’m a Network Engineering student focused on **infrastructure design**, **cybersecurity protocols**, and **real-world automation**.  
 I craft Micro SaaS tools that solve niche problems with speed, precision, and user-first utility.
@@ -25,7 +25,7 @@ I craft Micro SaaS tools that solve niche problems with speed, precision, and us
 
 ---
 
-### Tools & Tech I Use
+### Tools & Tech I Use:
 
 - **Languages**: Python · Node.js · JavaScript · Bash
 - **Infra**: GitHub Actions · Vercel · Railway · Supabase · Firebase
