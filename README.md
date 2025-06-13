@@ -12,7 +12,7 @@ I craft Micro SaaS tools that solve niche problems with speed, precision, and us
 
 ---
 
-### Projects I Build
+### Projects I'm working on right now:
 
 | Project Name | Niche | Description |
 |--------------|-------|--------|
