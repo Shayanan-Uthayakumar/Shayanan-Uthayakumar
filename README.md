@@ -1,6 +1,6 @@
 <h1 align="center">Ananthashayanan Uthayakumar</h1>
 <p align="center">
-Networking · Cybersecurity ·  SaaS Creation
+Networking · Cybersecurity ·  SaaS 
 </p>
 
 ---
