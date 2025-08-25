@@ -36,6 +36,6 @@ I craft Micro SaaS tools that solve niche problems with speed, precision, and us
 
 ---
 
-### Connect With Me
+### Wanna Connect? Here ya go!
 
 - [LinkedIn](https://linkedin.com/in/ananthashayanan-uthayakumar-95656134a)
