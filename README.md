@@ -5,9 +5,9 @@ Red Team · Networking · SaaS
 
 ---
 
-### Who I Am:
+### Who Am I?
 
-I’m a Network Engineering student focused on **infrastructure design**, **cybersecurity protocols**, and **real-world automation**.  
+I’m a Cybersecurity guy focused on **infrastructure design**, **Red Team** and **real-world automation**.  
 I craft Micro SaaS tools that solve niche problems with speed, precision, and user-first utility.
 
 ---
