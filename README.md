@@ -1,6 +1,6 @@
 <h1 align="center">Ananthashayanan Uthayakumar</h1>
 <p align="center">
-Network Engineering · Cybersecurity · Micro SaaS Creator
+Networking · Cybersecurity ·  SaaS Creation
 </p>
 
 ---
