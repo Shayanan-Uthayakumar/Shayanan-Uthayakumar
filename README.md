@@ -21,7 +21,7 @@ I craft Micro SaaS tools that solve niche problems with speed, precision, and us
 | **One-Time Chatroom** | Secure Comms / Anonymity | Self-destructing private chatroom for sensitive talks. |
 | **Single-Use API Key Vault** | Dev Tools / API Security | Single-use API key manager to stop backend abuse. |
 
-> I release 2–4 Micro SaaS tools every month.
+
 
 ---
 
