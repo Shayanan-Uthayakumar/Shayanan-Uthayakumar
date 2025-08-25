@@ -1,6 +1,6 @@
 <h1 align="center">Ananthashayanan Uthayakumar</h1>
 <p align="center">
-Red Teame · Networking · SaaS 
+Red Team · Networking · SaaS 
 </p>
 
 ---
